@@ -3,9 +3,14 @@
 <ul class=nav>
 <li><a href=problema1.php>Ejercicio1</a></li>
 <li><a href=Ejercicio2.php>Ejercicio2</a></li>
-<li><a href=Ejercicio3.php>Ejercicio3</a></li>
+<li><a href=Intento.php>made by herberth</a></li>
 <li><a href=Ejercicio4.php>Ejercicio4</a></li>
+<li><a href=Ejercicio5.php>Ejercicio2</a></li>
 </ul><br><br><br>
+
+<h1>
+	Barry estuvo aqui
+</h1>
 <style type="text/css">
 ul{
 list-style:none;
