@@ -1,7 +1,7 @@
 
 
 <ul class=nav>
-<li><a href=Ejercicio1.php>Ejercicio1</a></li>
+<li><a href=problema1.php>Ejercicio1</a></li>
 <li><a href=Ejercicio2.php>Ejercicio2</a></li>
 <li><a href=Ejercicio3.php>Ejercicio3</a></li>
 <li><a href=Ejercicio4.php>Ejercicio4</a></li>
