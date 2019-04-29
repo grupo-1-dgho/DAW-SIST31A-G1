@@ -3,14 +3,9 @@
 <ul class=nav>
 <li><a href=problema1.php>Ejercicio1</a></li>
 <li><a href=Ejercicio2.php>Ejercicio2</a></li>
-<li><a href=Intento.php>made by herberth</a></li>
+<li><a href=Ejercicio3.php>Ejercicio3</a></li>
 <li><a href=Ejercicio4.php>Ejercicio4</a></li>
-<li><a href=Ejercicio5.php>Ejercicio2</a></li>
 </ul><br><br><br>
-
-<h1>
-	Barry estuvo aqui
-</h1>
 <style type="text/css">
 ul{
 list-style:none;
@@ -22,17 +17,17 @@ padding: 15px;
 float:left;
 }
 .nav li a {
-background-color:black;
-color:#fff;
+background-color:white;
+color:#FFF;
 text-decoration:none;
 display:block;
 list-style: none;
-padding: 10px 8px;
+padding: 12px 10px;
 
 			}
 			
 .nav li a:hover {
-background-color:blue;
+background-color:red;
 }
 			
 body{
@@ -46,7 +41,7 @@ body{
 .form{
 	background-color: rgba(0,0,0,0.8);
 	border-radius: 15px;
-	border:2px solid blue;
+	border:2px solid purple;
 	width:65%;
 	padding: 15px;
 	box-sizing: border-box;
